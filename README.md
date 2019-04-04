@@ -1,2 +1,2 @@
-# MNIST_Hand_written_digits
-This project deals with, for the classification of hand_written_digits
+# Recognition of Hand written digits
+This project deals with, for the recognition of hand written digits by making use machine learning.
